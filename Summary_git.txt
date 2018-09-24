@@ -19,3 +19,6 @@ Add new branch: git branch <branchname>
 change to different branch: git checkout <branchname>
 delete branch: git branch -d <branchname>
 
+5. Merging Branches
+When done working on a script in a different branch, merge branches using the git merge <branchname> command.
+It incorporates the other branch into the current branch by default.

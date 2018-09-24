@@ -3,3 +3,5 @@ A directory where changes to files are tracked by Git is called a Git repository
 You can track changes to a file using git add [name of file]
 You can create a milestone about the state of your files using git commit -m "message".
 To examine the state of files in your repository use git status.
+Exercises to git
+To reset the last commit: git reset --soft Head~

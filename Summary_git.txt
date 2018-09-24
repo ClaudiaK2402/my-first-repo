@@ -9,3 +9,6 @@ To reset the last commit: git reset --soft Head~
 2. Lesson to git:
 Use git diff file.txt to show the changes made since the last commit.
 With git checkout file.txt last changes can be unmade.
+
+3. .gitignore:
+On each line in this file files or types of files can be specified which should not be tracked by git.

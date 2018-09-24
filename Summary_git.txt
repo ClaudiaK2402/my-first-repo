@@ -12,3 +12,10 @@ With git checkout file.txt last changes can be unmade.
 
 3. .gitignore:
 On each line in this file files or types of files can be specified which should not be tracked by git.
+
+4. Branching
+Using different branches more people can work on the same file without overwriting others.
+Add new branch: git branch <branchname>
+change to different branch: git checkout <branchname>
+delete branch: git branch -d <branchname>
+
